@@ -65,7 +65,7 @@ SELECT * FROM customers WHERE city = 'New York';
 
 ---
 
-## 🖼️ UI Screenshots
+## 🖼️ UI 
 
 ### 🔹 Input Interface
 
